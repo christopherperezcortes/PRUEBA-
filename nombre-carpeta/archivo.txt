@@ -1,0 +1,6 @@
+mkdir mi_carpeta
+cd mi_carpeta
+touch archivo.txt
+git add .
+git commit -m "Agregando carpeta"
+git push
